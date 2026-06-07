@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="61628c6a-e4a1-42f3-9caf-43913f4a693a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="37kwhb4HHuzekrfmwEdLr2nw0ED" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/arash/Desktop/next-store",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "web-ide.project.structure",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "C:\\Users\\arash\\Desktop\\next-store\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.26574.96" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61628c6a-e4a1-42f3-9caf-43913f4a693a" name="Changes" comment="" />
+      <created>1766484465804</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1766484465804</updated>
+      <workItem from="1767460497774" duration="4080000" />
+      <workItem from="1767525482352" duration="72000" />
+      <workItem from="1767525568970" duration="1140000" />
+      <workItem from="1767557275175" duration="783000" />
+      <workItem from="1767558078280" duration="30000" />
+      <workItem from="1767558119462" duration="305000" />
+      <workItem from="1767558436449" duration="94000" />
+      <workItem from="1767558540369" duration="206000" />
+      <workItem from="1767559418405" duration="105000" />
+      <workItem from="1767559532372" duration="128000" />
+      <workItem from="1767559686513" duration="179000" />
+      <workItem from="1767560060638" duration="184000" />
+      <workItem from="1767560255460" duration="106000" />
+      <workItem from="1767560563477" duration="24000" />
+      <workItem from="1767560597243" duration="334000" />
+      <workItem from="1767560945113" duration="440000" />
+      <workItem from="1767561399254" duration="14000" />
+      <workItem from="1767561422351" duration="203000" />
+      <workItem from="1767561782227" duration="99000" />
+      <workItem from="1767561891389" duration="879000" />
+      <workItem from="1767562793833" duration="54000" />
+      <workItem from="1767562856264" duration="67000" />
+      <workItem from="1767563419173" duration="101000" />
+      <workItem from="1767563528544" duration="74000" />
+      <workItem from="1767563611794" duration="273000" />
+      <workItem from="1767563896024" duration="76000" />
+      <workItem from="1767563979912" duration="234000" />
+      <workItem from="1767564322689" duration="135000" />
+      <workItem from="1767564469701" duration="208000" />
+      <workItem from="1767564686718" duration="692000" />
+      <workItem from="1767565598769" duration="233000" />
+      <workItem from="1767566156546" duration="455000" />
+      <workItem from="1767566634263" duration="179000" />
+      <workItem from="1767566829847" duration="433000" />
+      <workItem from="1768056909511" duration="794000" />
+      <workItem from="1768058886779" duration="46000" />
+      <workItem from="1780861347483" duration="524000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
